@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página Web</title>
+</head>
+<body>
+    <h1>Minha primeira página Web</h1>
+    
+    <p><strong>Nome:</strong> Joamilton Gomes da Silva</p>
+
+    <h2>Sobre a atividade</h2>
+    <p>Esta é minha primeira página desenvolvida na disciplina Programação Web I.</p>
+
+    <h2>Tecnologias Utilizadas</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Git</li>
+        <li>GitHub</li>
+    </ul>
+</body>
+</html>
