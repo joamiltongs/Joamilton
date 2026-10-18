@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Página Pessoal - Início</title>
+
+</head>
+
+<body>
+
+
+
+    <!-- 1. Cabeçalho (Header) -->
+
+    <header>
+
+        <h1>Meu Portfólio Pessoal</h1>
+
+        <p>Bem-vindo à minha página pessoal! Aqui você encontrará informações sobre mim e meus interesses.</p>
+
+    </header>
+
+
+
+    <!-- 4. Seção de Navegação -->
+
+    <nav>
+
+        <ul>
+
+            <li><a href="index.html">Início</a></li>
+
+            <li><a href="sobre.html">Sobre Mim</a></li>
+
+            <li><a href="#hobbies">Ir para Hobbies</a></li>
+
+        </ul>
+
+    </nav>
+
+
+
+    <!-- Conteúdo Principal Semântico -->
+
+    <main>
+
+        <!-- 2. Seção de Apresentação -->
+
+        <section id="apresentacao">
+
+            <h2>Apresentação</h2>
+
+            <p>Olá! Sou Engenheiro de Manutenção especialista em Qualidade do Ar Interior e sou estudante do curso Técnico em Informática para Internet no IF Sudeste MG - Campus Barbacena. Sou apaixonado por tecnologia, máquinas em funcionamento e inovação.</p>
+
+            <img src="img/foto.jpg" alt="Descrição da minha foto" width="200">
+
+        </section>
+
+
+
+        <!-- 3. Seção de Hobbies ou Interesses -->
+
+        <section id="hobbies">
+
+            <h2>Hobbies e Interesses</h2>
+
+            <p>Algumas das atividades que mais gosto de realizar no meu tempo livre:</p>
+
+            <ul>
+
+                <li>Passear com minha família e o Bob,nosso cachorrinho</li>
+
+                <li>Assistir futebol sem áudio e ouvir a narração pelo rádio. Gosto de assistir filmes de ficção científica</li>
+
+                <li>Praticar esportes ao ar livre não sou muito fã mas ouvir música, proicnipalmente o bom e o velho Rock in Roll</li>
+
+            </ul>
+
+        </section>
+
+    </main>
+
+
+
+    <!-- 5. Rodapé (Footer) -->
+
+    <footer>
+
+        <p>Desenvolvido por <strong>Joamilton Gomes da Silva</strong></p>
+
+        <p>Conecte-se comigo: <a href="https://github.com" target="_blank" rel="noopener noreferrer">Meu Perfil no GitHub</a></p>
+
+    </footer>
+
+
+
+</body>
+
+</html>
+
